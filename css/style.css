@@ -1,0 +1,21 @@
+html {
+  background: #fff;
+  font: 16px calibri, sans-serif;
+  cursor: default;
+}
+form div input {
+  border-style: solid;
+  border-color: #999;
+  border-width: 2px;
+}
+form{float: left}
+label{float:left; margin-right:1px}
+form div{text-align:right; margin-bottom:10px}
+span{color:red}
+div#button {
+  margin-top: 10px
+}
+ #wrapper {
+  width: 500px;
+  margin: auto;
+}
